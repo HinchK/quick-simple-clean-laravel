@@ -1,6 +1,6 @@
 ## HinchK's Kode-Kalisthenics
 
-[![Template Used:](https://github.com/rappasoft/laravel-boilerplate)](https://github.com/rappasoft/laravel-boilerplate)
+[Template: rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate)
 
 Let's checkout Github Templates, and how we might be able to leverage open-source prior-art to build a thing!  Building on the terrific Laravel-Boilerplate template to go from 0 to Proof-of-Concept on a basic Todo-app as a starting point.  
 
