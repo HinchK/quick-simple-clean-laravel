@@ -1,3 +1,22 @@
+## HinchK's Kode-Kalisthenics
+
+[![Template Used:](https://github.com/rappasoft/laravel-boilerplate)](https://github.com/rappasoft/laravel-boilerplate)
+
+Let's checkout Github Templates, and how we might be able to leverage open-source prior-art to build a thing!  Building on the terrific Laravel-Boilerplate template to go from 0 to Proof-of-Concept on a basic Todo-app as a starting point.  
+
+ * Github Templates
+ * Github Actions
+ * Training proper use and applications of Static Analyzers
+ * AWS CodeDeploy (probably)
+ 
+ The the ultimate goals of this exercise:
+ 
+  * keep myself sharp on the latest laravel 8 & php 7.4+ conventions,
+  * build basic pipelines and code-analyzers using github-actions, 
+  * do it all again in unison with my old sinewy sysadmin muscles in a training environment focused on hoisting it up to a cloud in a production setting.
+  
+________
+
 ## Laravel Boilerplate (Current: Laravel 8.*) ([Demo](https://demo.laravel-boilerplate.com))
 
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
