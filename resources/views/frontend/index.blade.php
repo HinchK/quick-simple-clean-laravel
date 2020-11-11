@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ appName() }}</title>
         <meta name="description" content="@yield('meta_description', appName())">
-        <meta name="author" content="@yield('meta_author', 'Anthony Rappa')">
+        <meta name="author" content="@yield('meta_author', 'Kasey Hinchman')">
         @yield('meta')
 
         @stack('before-styles')
@@ -98,8 +98,8 @@
                 </div><!--title-->
 
                 <div class="links">
-                    <a href="http://laravel-boilerplate.com" target="_blank"><i class="fa fa-book"></i> @lang('Docs')</a>
-                    <a href="https://github.com/rappasoft/laravel-boilerplate" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                    <a href="https://github.com/rappasoft/laravel-boilerplate" target="_blank"><i class="fab fa-github"></i> laravel-boilerplate@GitHub</a>
+                    <a href="http://todo.imustnotfear.net" target="_blank"><i class="fa fa-book"></i> @lang('Template Docs')</a>
                 </div><!--links-->
             </div><!--content-->
         </div><!--app-->
