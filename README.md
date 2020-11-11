@@ -1,4 +1,4 @@
-## HinchK's Kode-Kalisthenics
+# Koding-Kalisthenics with K
 
 [Template: rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate)
 
@@ -16,8 +16,10 @@ Let's checkout Github Templates, and how we might be able to leverage open-sourc
   * do it all again in unison with my old sinewy sysadmin muscles in a training environment focused on hoisting it up to a cloud in a production setting.
   
 ________
+## Laravel-Boilerplate README
+https://github.com/rappasoft/laravel-boilerplate
 
-## Laravel Boilerplate (Current: Laravel 8.*) ([Demo](https://demo.laravel-boilerplate.com))
+### Laravel Boilerplate (Current: Laravel 8.*) ([Demo](https://demo.laravel-boilerplate.com))
 
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
 [![Latest Unstable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/unstable)](https://packagist.org/packages/rappasoft/laravel-boilerplate) 
