@@ -1,11 +1,11 @@
 <template>
-    <span>Todo|imustnotfear</span>
+    <span>TODO: i must not fear</span>
 </template>
 
 <script>
     export default {
         mounted() {
-            console.log('home-page-title component mounted.')
+            console.log('home-title component mounted.')
         }
     }
 </script>
