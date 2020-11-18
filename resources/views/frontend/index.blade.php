@@ -94,12 +94,14 @@
                 @include('includes.partials.messages')
 
                 <div class="title m-b-md">
-                    <example-component></example-component>
+                    <welcome-component></welcome-component>
                 </div><!--title-->
 
                 <div class="links">
-                    <a href="https://github.com/rappasoft/laravel-boilerplate" target="_blank"><i class="fab fa-github"></i> laravel-boilerplate@GitHub</a>
-                    <a href="http://todo.imustnotfear.net" target="_blank"><i class="fa fa-book"></i> @lang('Template Docs')</a>
+                    <a href="https://github.com/rappasoft/laravel-boilerplate" target="_blank"><i
+                            class="fab fa-github"></i> laravel-boilerplate@GitHub</a>
+                    <a href="http://todo.imustnotfear.net" target="_blank"><i
+                            class="fa fa-book"></i> @lang('Template Docs')</a>
                 </div><!--links-->
             </div><!--content-->
         </div><!--app-->
