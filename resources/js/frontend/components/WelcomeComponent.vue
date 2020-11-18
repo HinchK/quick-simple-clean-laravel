@@ -5,7 +5,7 @@
 <script>
     export default {
         mounted() {
-            console.log('home-title component mounted.')
+            console.log('Home-Title (WelcomeComponent.vue) component mounted.')
         }
     }
 </script>
