@@ -3,7 +3,6 @@
 namespace App\Providers;
 
 use Illuminate\Support\Facades\Gate;
-use TobiasDierich\Gauge\IncomingEntry;
 use TobiasDierich\Gauge\Gauge;
 use TobiasDierich\Gauge\GaugeApplicationServiceProvider;
 

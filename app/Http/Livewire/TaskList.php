@@ -19,6 +19,6 @@ class TaskList extends Component
 
     public function render()
     {
-        return view('livewire.tasks-list');
+        return view('livewire.task-list');
     }
 }

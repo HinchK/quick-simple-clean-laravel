@@ -1,4 +1,4 @@
-# Koding-Kalisthenics with K
+### Building, Boilerplates, and Beyond
 
 [Template: rappasoft/laravel-boilerplate](https://github.com/rappasoft/laravel-boilerplate)
 

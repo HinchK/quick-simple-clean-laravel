@@ -3,8 +3,9 @@
 namespace App\Http\Livewire;
 
 use Livewire\Component;
+use App\Models\Task;
 
-class UpdateTask extends Component
+class EditTask extends Component
 {
     public $task;
 

@@ -1,3 +1,9 @@
+@import '../global';
+
+// Coreuiz
+@import '~@coreui/coreui/scss/coreui';
+@import '~@coreui/icons/css/free.min.css';
+
 @tailwind base;
 
 @tailwind components;
