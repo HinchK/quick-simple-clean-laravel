@@ -2,8 +2,9 @@
 
 namespace App\Http\Livewire;
 
-use Livewire\Component;
 use App\Models\Task;
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+use Livewire\Component;
 
 class TaskForm extends Component
 {
@@ -60,7 +61,7 @@ class TaskForm extends Component
 
         $task->delete();
 
-        $this->emitTo('tasks-list', 'taskRemoved');
+        $this->emitTo('task-list', 'taskRemoved');
 
         $this->reset();
     }
@@ -73,7 +74,7 @@ class TaskForm extends Component
 
         $this->task->update(['name' => $this->name]);
 
-        $this->emitTo('tasks-list', 'taskEdited');
+        $this->emitTo('task-list', 'taskEdited');
 
         $this->reset();
     }
@@ -88,7 +89,7 @@ class TaskForm extends Component
             'name' => $this->name,
         ]);
 
-        $this->emitTo('tasks-list', 'taskAdded');
+        $this->emitTo('task-list', 'taskAdded');
 
         $this->reset();
     }
@@ -97,5 +98,4 @@ class TaskForm extends Component
     {
         return view('livewire.task-form');
     }
-
 }

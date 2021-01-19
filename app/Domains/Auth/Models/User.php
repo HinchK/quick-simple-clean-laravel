@@ -19,6 +19,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Lab404\Impersonate\Models\Impersonate;
 use Spatie\Permission\Traits\HasRoles;
+use App\Models\Task;
 
 /**
  * Class User.
@@ -156,5 +157,10 @@ class User extends Authenticatable implements MustVerifyEmail, TwoFactorAuthenti
     protected static function newFactory()
     {
         return UserFactory::new();
+    }
+
+    public function tasks()
+    {
+        return $this->hasMany(Task::class);
     }
 }

@@ -1,0 +1,73 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.task {
+    &:hover .actions {
+        opacity: 1;
+    }
+}
+
+.btn-todo {
+    @apply flex-shrink-0 px-2 py-1 text-sm text-white border-4 rounded;
+}
+
+.btn-gray {
+    @apply bg-gray-500 border-gray-500;
+
+    &:hover {
+        @apply bg-gray-700 border-gray-700;
+    }
+}
+
+.btn-purple {
+    @apply bg-purple-500 border-purple-500;
+
+    &:hover {
+        @apply bg-purple-700 border-purple-700;
+    }
+}
+
+.btn-red {
+    @apply bg-red-500 border-red-500;
+
+    &:hover {
+        @apply bg-red-700 border-red-700;
+    }
+}
+
+.btn-green {
+    @apply bg-green-500 border-green-500;
+
+    &:hover {
+        @apply bg-green-700 border-green-700;
+    }
+}
+
+.btn-gray {
+    @apply bg-gray-500 border-gray-500;
+
+    &:hover {
+        @apply bg-gray-700 border-gray-700;
+    }
+}
+
+.btn-green {
+    @apply bg-green-500 border-green-500;
+
+    &:hover {
+        @apply bg-green-700 border-green-700;
+    }
+}
+
+button:disabled {
+    @apply cursor-not-allowed btn-gray;
+}
+
+button:disabled:hover {
+    @apply bg-gray-700 border-gray-700;
+}
+
