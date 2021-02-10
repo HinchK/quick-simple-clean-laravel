@@ -1770,16 +1770,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v8.26.1",
+            "version": "v8.27.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "275c78c97e007e4a9d771d4d1caa1c77ebfdcf94"
+                "reference": "a6680d98f9dadaa363aa7d5218517a08706cee64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/275c78c97e007e4a9d771d4d1caa1c77ebfdcf94",
-                "reference": "275c78c97e007e4a9d771d4d1caa1c77ebfdcf94",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/a6680d98f9dadaa363aa7d5218517a08706cee64",
+                "reference": "a6680d98f9dadaa363aa7d5218517a08706cee64",
                 "shasum": ""
             },
             "require": {
@@ -1934,7 +1934,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2021-02-02T14:07:24+00:00"
+            "time": "2021-02-09T15:14:54+00:00"
         },
         {
             "name": "laravel/socialite",
@@ -12590,16 +12590,16 @@
         },
         {
             "name": "spatie/laravel-ray",
-            "version": "1.12.3",
+            "version": "1.12.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-ray.git",
-                "reference": "d92c6beee765a7b1d41daa5ea69a2b175d3745de"
+                "reference": "a4ac4fa380ce46d8713be88464bd734b43099f17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-ray/zipball/d92c6beee765a7b1d41daa5ea69a2b175d3745de",
-                "reference": "d92c6beee765a7b1d41daa5ea69a2b175d3745de",
+                "url": "https://api.github.com/repos/spatie/laravel-ray/zipball/a4ac4fa380ce46d8713be88464bd734b43099f17",
+                "reference": "a4ac4fa380ce46d8713be88464bd734b43099f17",
                 "shasum": ""
             },
             "require": {
@@ -12654,7 +12654,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/laravel-ray/issues",
-                "source": "https://github.com/spatie/laravel-ray/tree/1.12.3"
+                "source": "https://github.com/spatie/laravel-ray/tree/1.12.4"
             },
             "funding": [
                 {
@@ -12666,7 +12666,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2021-02-08T14:21:24+00:00"
+            "time": "2021-02-10T08:07:44+00:00"
         },
         {
             "name": "spatie/macroable",
@@ -12720,16 +12720,16 @@
         },
         {
             "name": "spatie/ray",
-            "version": "1.19.2",
+            "version": "1.19.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/ray.git",
-                "reference": "18bd1a51b161cefc323ac0242242d1cdd501d88f"
+                "reference": "932ba405337bbe530da1d3b1c5746a16192be2ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/ray/zipball/18bd1a51b161cefc323ac0242242d1cdd501d88f",
-                "reference": "18bd1a51b161cefc323ac0242242d1cdd501d88f",
+                "url": "https://api.github.com/repos/spatie/ray/zipball/932ba405337bbe530da1d3b1c5746a16192be2ed",
+                "reference": "932ba405337bbe530da1d3b1c5746a16192be2ed",
                 "shasum": ""
             },
             "require": {
@@ -12779,7 +12779,7 @@
             ],
             "support": {
                 "issues": "https://github.com/spatie/ray/issues",
-                "source": "https://github.com/spatie/ray/tree/1.19.2"
+                "source": "https://github.com/spatie/ray/tree/1.19.3"
             },
             "funding": [
                 {
@@ -12791,7 +12791,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2021-02-09T07:46:57+00:00"
+            "time": "2021-02-09T12:35:00+00:00"
         },
         {
             "name": "symfony/debug",
