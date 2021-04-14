@@ -40,8 +40,8 @@
     },
     "dependencies": {
         "@tailwindcss/forms": "^0.2.1",
-        "autoprefixer": "^9.8.6",
-        "postcss": "^7.0.35",
+        "autoprefixer": "^10.0.0",
+        "postcss": "^8.2.10",
         "request": "^2.79.0",
         "resolve": "^1.19.0",
         "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
