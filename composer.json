@@ -36,7 +36,7 @@
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.2",
         "barryvdh/laravel-ide-helper": "^2.6",
-        "codedungeon/phpunit-result-printer": "^0.29",
+        "codedungeon/phpunit-result-printer": "^0.31",
         "designsecurity/progpilot": "^0.8.0",
         "facade/ignition": "^2.3.6",
         "friendsofphp/php-cs-fixer": "^2.16",
